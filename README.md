@@ -25,6 +25,11 @@
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Simple API Server
+
+Find more info in swagger.yaml
+
+Based on [MoviesAPI.ReactJS](https://github.com/VarvaraZadnepriak/MoviesAPI.ReactJS)
 
 ## Installation
 
