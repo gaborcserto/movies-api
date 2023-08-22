@@ -24,8 +24,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
-Simple API Server
+[Nest](https://github.com/nestjs/nest) framework simple API Server
 
 Find more info in swagger.yaml
 
